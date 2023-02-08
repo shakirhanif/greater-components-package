@@ -1,0 +1,19 @@
+{
+  "name": "greater-components-package",
+  "version": "1.0.0",
+  "description": "this is a components library package for whatNot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakirhanif/greater-components-package.git"
+  },
+  "author": "shakir hanif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakirhanif/greater-components-package/issues"
+  },
+  "homepage": "https://github.com/shakirhanif/greater-components-package#readme"
+}
